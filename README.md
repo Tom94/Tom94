@@ -11,7 +11,7 @@ Principal research scientist at [NVIDIA](https://research.nvidia.com/person/thom
 
 - **[instant-ngp](https://github.com/nvlabs/instant-ngp)** - ai based 3D reconstruction
 - **[tiny-cuda-nn](https://github.com/nvlabs/tiny-cuda-nn)** - lightning fast tiny neural networks
-- **[tev](https://github.com/tom94/tev)** - image viewer that loads images *fast*, works on all platforms, and understands HDR and colorspaces
+- **[tev](https://github.com/tom94/tev)** - HDR image viewer that works on all platforms, loads images *fast*, and understands colorspaces
 - **[tclaude](https://github.com/tom94/tclaude)** - fully fledged Claude in the terminal
 
 ## Notable code from research papers&nbsp; ![](https://img.shields.io/github/stars/nv-tlabs/gen3c?style=solid&label=★&labelColor=212830&color=212830) ![](https://img.shields.io/github/stars/tom94/practical-path-guiding?style=solid&label=★&labelColor=212830&color=212830)
