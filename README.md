@@ -7,23 +7,23 @@ Principal research scientist at [NVIDIA](https://research.nvidia.com/person/thom
 <a href="https://www.linkedin.com/in/tom94/"><img src="https://img.shields.io/badge/-LinkedIn-3781da" alt="LinkedIn"/></a>
 <a href="mailto:contact@94.me"><img src="https://img.shields.io/badge/-Contact-3781da" alt="Contact"/></a>
 
-## Main projects&nbsp; ![](https://img.shields.io/github/stars/nvlabs/instant-ngp?style=solid&label=★&labelColor=212830&color=212830) ![](https://img.shields.io/github/stars/nvlabs/tiny-cuda-nn?style=solid&label=★&labelColor=212830&color=212830) ![](https://img.shields.io/github/stars/tom94/tev?style=solid&label=★&labelColor=212830&color=212830) ![](https://img.shields.io/github/stars/tom94/tclaude?style=solid&label=★&labelColor=212830&color=212830)
+## Main projects&nbsp; ![](https://img.shields.io/github/stars/nvlabs/instant-ngp?style=solid&label=★&labelColor=212830&color=212830) ![](https://img.shields.io/github/stars/nvlabs/tiny-cuda-nn?style=solid&label=★&labelColor=212830&color=212830) ![](https://img.shields.io/github/stars/tom94/tev?style=solid&label=★&labelColor=212830&color=212830)
 
 - **[instant-ngp](https://github.com/nvlabs/instant-ngp)** - ai based 3D reconstruction
 - **[tiny-cuda-nn](https://github.com/nvlabs/tiny-cuda-nn)** - lightning fast tiny neural networks
 - **[tev](https://github.com/tom94/tev)** - HDR image viewer that works on all platforms, loads images *fast*, and understands colorspaces
-- **[tclaude](https://github.com/tom94/tclaude)** - fully fledged Claude in the terminal
 
 ## Notable code from research papers&nbsp; ![](https://img.shields.io/github/stars/nv-tlabs/gen3c?style=solid&label=★&labelColor=212830&color=212830) ![](https://img.shields.io/github/stars/tom94/practical-path-guiding?style=solid&label=★&labelColor=212830&color=212830)
 
 - **[gen3c](https://github.com/nv-tlabs/gen3c)** - gen ai with camera control
 - **[practical-path-guiding](https://github.com/tom94/practical-path-guiding)** - machine learning for path tracing
 
-## Misc&nbsp; ![](https://img.shields.io/github/stars/tom94/ttt?style=solid&label=★&labelColor=212830&color=212830) ![](https://img.shields.io/github/stars/tom94/twm?style=solid&label=★&labelColor=212830&color=212830) ![](https://img.shields.io/github/stars/tom94/tinylogger?style=solid&label=★&labelColor=212830&color=212830) ![](https://img.shields.io/github/stars/tom94/stbi-sharp?style=solid&label=★&labelColor=212830&color=212830)
+## Misc&nbsp; ![](https://img.shields.io/github/stars/tom94/tclaude?style=solid&label=★&labelColor=212830&color=212830) ![](https://img.shields.io/github/stars/tom94/tinylogger?style=solid&label=★&labelColor=212830&color=212830) ![](https://img.shields.io/github/stars/tom94/ttt?style=solid&label=★&labelColor=212830&color=212830) ![](https://img.shields.io/github/stars/tom94/twm?style=solid&label=★&labelColor=212830&color=212830) ![](https://img.shields.io/github/stars/tom94/stbi-sharp?style=solid&label=★&labelColor=212830&color=212830)
 
+- **[tclaude](https://github.com/tom94/tclaude)** - fully fledged Claude in the terminal
+- **[tinylogger](https://github.com/tom94/tinylogger)** - tiny C++ logging library
 - **[ttt](https://github.com/tom94/ttt)** - minimal terminal typing speed test
 - **[twm](https://github.com/tom94/twm)** - directional focus switcher for Windows
-- **[tinylogger](https://github.com/tom94/tinylogger)** - tiny C++ logging library
 - **[stbi-sharp](https://github.com/tom94/stbi-sharp)** - C# bindings for stb_image
 
 ## I also worked on osu! in the past&nbsp; ![](https://img.shields.io/github/stars/ppy/osu?style=solid&label=★&labelColor=212830&color=212830) ![](https://img.shields.io/github/stars/ppy/osu-framework?style=solid&label=★&labelColor=212830&color=212830) ![](https://img.shields.io/github/stars/ppy/osu-performance?style=solid&label=★&labelColor=212830&color=212830)
