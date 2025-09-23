@@ -1,5 +1,3 @@
-# 👋 I'm Thomas
-
 Principal research scientist at [NVIDIA](https://research.nvidia.com/person/thomas-muller) working on AI. Formerly [Disney](https://studios.disneyresearch.com/) and [osu!](https://osu.ppy.sh). 🎓 PhD from ETH Zürich.
 
 <a href="https://tom94.net"><img src="https://img.shields.io/badge/-Publications-3781da" alt="Publication"/></a>
