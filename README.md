@@ -1,4 +1,4 @@
-Principal research scientist at [NVIDIA](https://research.nvidia.com/person/thomas-muller) working on AI. Formerly [Disney](https://studios.disneyresearch.com/) and [osu!](https://osu.ppy.sh). 🎓 PhD from ETH Zürich.
+Independent researcher. Ex-principal at [NVIDIA](https://research.nvidia.com/person/thomas-muller). Formerly [Disney](https://studios.disneyresearch.com/) and [osu!](https://osu.ppy.sh). 🎓 PhD from ETH Zürich.
 
 <a href="https://tom94.net"><img src="https://img.shields.io/badge/-Publications-3781da" alt="Publication"/></a>
 <a href="https://www.linkedin.com/in/tom94/details/honors/"><img src="https://img.shields.io/badge/-Awards-3781da" alt="Awards"/></a>
@@ -9,7 +9,7 @@ Principal research scientist at [NVIDIA](https://research.nvidia.com/person/thom
 
 - **[instant-ngp](https://github.com/nvlabs/instant-ngp)** - ai based 3D reconstruction
 - **[tiny-cuda-nn](https://github.com/nvlabs/tiny-cuda-nn)** - lightning fast tiny neural networks
-- **[tev](https://github.com/tom94/tev)** - HDR image viewer that works on all platforms, loads images *fast*, and understands colorspaces
+- **[tev](https://github.com/tom94/tev)** - color accurate HDR image viewer that works on all platforms
 
 ## Notable code from research papers&nbsp; ![](https://img.shields.io/github/stars/nv-tlabs/gen3c?style=solid&label=★&labelColor=212830&color=212830) ![](https://img.shields.io/github/stars/tom94/practical-path-guiding?style=solid&label=★&labelColor=212830&color=212830)
 
